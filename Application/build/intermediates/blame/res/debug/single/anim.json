@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/res/anim/abc_fade_in.xml"
+    }
+]

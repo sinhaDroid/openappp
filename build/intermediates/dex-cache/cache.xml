@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/7dfa8ad2dbdef1645aac8876d09108dc3b3ca4e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_ee41bcf881cfbb3fdcd3a678195938200a6389d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/44e24d66a0362d3aa4f65a79c7d4287247e7b2d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_e932be280f6e089c069f5026826d2c07e01d73d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/8ca9eb595d16def60b332b00d4aeca3d1ef78789/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_2b845f28681cf2d2779fe4fc80f0b14bccb5b195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/5f18a51fd3943f53a65db34b98e301648af8edc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_8afe8cdfa06f5b8145fdba7cc29696ca3fda95bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/8d50d5626a2bcc4b697279fad72b7ed8c1edf738/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_7164c12368eb54ed8c9ccf782d44ed31ae4d30c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/0f1b934da825944755161ae85d58e2e8edfc7905/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_f8bb26f2ff4af4c6716ff1004a728d4f834d6077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3b35a5688f4f77f54c7b338b874a04f38b7153fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/ac6a3b05f67b2151ee4fd5f50ecc23c4414250de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_848b159befda7abce5a2f7296b49a32f53ca6167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/bd94a95c26e476d170e71a364de4eb684bc41631/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_5db7bf03ffb9ffc1786b61010dd5c96bf9b0c18a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/a246c1b4a30cc3e58bd3340b2e2db373c2edd0da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_f33f12f0b7ce2e3a1a8e309797a433a5c7e66e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/c3c98a3ffe9f9ceadee3acfcb091f849ecd1cb14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_6a807817e640722432a66d8e62bae43f1185a46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepanshu/.android/build-cache/d7d7bafda809a3c46156d9425d2f0abe6169c9b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/deepanshu/Desktop/android-BluetoothLeGatt-master/Application/build/intermediates/pre-dexed/debug/classes_2ae46fea57a1829ca2c3c3cb048fbb97d87956bc.jar" />
+    </item>
+
+</items>
